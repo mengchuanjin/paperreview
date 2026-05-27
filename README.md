@@ -11,8 +11,8 @@ description: >-
   用户上传PDF或粘贴论文内容后，自动识别论文类型，并按对应规则进行逐项审阅，最终以结构化评审报告输出。
 metadata:
   version: 0.2.0
-  author: custom
-license: MIT
+  author: mengchuanjin
+
 ---
  
 # 论文审阅技能（Paper Review Skill）— v0.2.0
