@@ -38,9 +38,9 @@
 
 ## 安装（Claude）
 
-1. 下载 `paper-review` 压缩包（见本仓库 Releases；或把本仓库中的 `paper-review` 文件夹自行压缩为 zip，**文件夹名必须是 `paper-review`**）。
+1. 下载本仓库根目录中的 `paper-review-v0.3.0.zip`（无需解压，直接上传）。
 2. 在 Claude 的 **Settings → Capabilities** 中打开 **Code execution and file creation**。
-3. 进入 **Customize → Skills**，点击 **+ → Create skill → Upload a skill**，上传 zip（无需解压）。
+3. 进入 **Customize → Skills**，点击 **+ → Create skill → Upload a skill**，上传 zip。
 4. 在技能列表中确认 `paper-review` 处于开启状态。
 
 之后新开对话即可使用，例如：
